@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/CrashCourse/Content/ThirdPerson/Blueprints/BP_Pickup.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/CrashCourse/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KP/A1MYGND7WR3B875UN3NR78.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/CrashCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}

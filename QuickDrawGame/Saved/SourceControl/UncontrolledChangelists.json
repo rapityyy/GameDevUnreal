@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Attack.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Defeated.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Idle.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Attack.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Defeated.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Idle.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Background/T_Background.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Misc/T_Cross.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Misc/T_Exclamation.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/MAP_Duel.umap",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Maps/MAP_Duel.umap",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Background/T_Background_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Defeated_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Idle_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Misc/T_Cross_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Misc/T_Exclamation_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Attack_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Defeated_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Tanuki/T_Tanuki_Idle_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/PaperAssets/Toad/T_Toad_Attack_Sprite.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/BP_Samurai.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/BP_Samurai_Player.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/BP_Samurai_NPC.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/GM_Duel.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/Enums/E_Phase.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Blueprints/BP_Alert.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Input/Actions/IA_Attack.uasset",
+				"C:/Users/Anh Hoang/Desktop/GameDev/GameDevUnreal/QuickDrawGame/Content/Input/IMC_Duel.uasset"
+			]
+		}
+	]
+}
